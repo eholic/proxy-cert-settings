@@ -1,4 +1,5 @@
 # proxy-cert-settings
+[Recommended to see this doc in wide preview.](https://github.com/eholic/proxy-cert-settings/blob/main/README.md)
 
 Many enterprise IT provides a proxy server and a local Certificate Authority (CA) for security and inspection.
 
