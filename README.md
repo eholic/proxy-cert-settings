@@ -15,7 +15,7 @@ In that environment, usually tools (e.g. package manager and http library) could
     - SSL certificate problem
     - error self signed certificate in certificate chain
 
-This memorandom is the proxy and CA setting list of some tools.
+This memorandum is the proxy and CA setting list of some tools.
 > Some settings are redundant due to their dependency.
 
 - [Proxy setting](https://github.com/eholic/proxy-cert-settings#proxy-setting)
