@@ -18,8 +18,8 @@ In that environment, usually tools (e.g. package manager and http library) could
 This memorandom is the proxy and CA setting list of some tools.
 > Some settings are redundant due to their dependency.
 
-- [Proxy setting](./README.md#proxy-setting)
-- [CA setting](./README.md#ca-setting)
+- [Proxy setting](https://github.com/eholic/proxy-cert-settings#proxy-setting)
+- [CA setting](https://github.com/eholic/proxy-cert-settings#ca-setting)
 
 Give me PR if you know other settings.
 
