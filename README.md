@@ -29,8 +29,8 @@ Give me PR if you know other settings.
 Many tools refer to the following environment variables.
 ```bash
 # Some tools may needs upper case variables.
-$ export http_proxy=`your_proxy_server`
-$ export https_proxy=`your_proxy_server`
+$ export http_proxy=your_proxy_server
+$ export https_proxy=your_proxy_server
 $ export no_proxy=localhost,127.0.0.1,::1,*.local
 ```
 
@@ -48,9 +48,9 @@ $ export no_proxy=localhost,127.0.0.1,::1,*.local
 
 Many tools refer to the following environment variables.
 ```bash
-$ export REQUESTS_CA_BUNDLE=`/your/cafile.crt`
-$ export SSL_CERT_FILE=`/your/cafile.crt`
-$ export NODE_EXTRA_CA_CERTS=`/your/cafile.crt`
+$ export REQUESTS_CA_BUNDLE=/your/cafile.crt
+$ export SSL_CERT_FILE=/your/cafile.crt
+$ export NODE_EXTRA_CA_CERTS=/your/cafile.crt
 ```
 
 |tool |Set ca file (Recommended)| Ignore SSL (Depricated) | Reference |
